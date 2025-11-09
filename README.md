@@ -1,7 +1,7 @@
 # IPLL_CompilerDesign
 
 > Compiler Design project (Coursework) — lexer, parser, and further compiler phases implemented using Lex (Flex), Yacc (Bison) and C.
-
+ 
 ## Table of Contents
 
 * [Project Overview](#project-overview)
