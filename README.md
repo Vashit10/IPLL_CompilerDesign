@@ -156,18 +156,6 @@ done
 * **Semantic checks implemented:** list checks (undeclared variables, re-declaration, type mismatch in binary ops, return type checks in functions, arity checks for function calls).
 * **Code generation / IR:** representation of temporaries, labels, and sample instruction format.
 
-## Extending the Project
-
-Ideas for future improvements or extra credit:
-
-* Full type system with arrays and structs
-* Function prototypes, parameter passing, activation records
-* Optimization passes on IR (constant folding, dead-code elimination)
-* Back-end code generation to x86-64 / ARM assembly
-* A simple virtual machine to execute IR
-* Better error reporting with line/column locations and recovery
-
-
 ## Author / Contact
 
 * **Author:** Vashit Vaishnav (`Vashit10`) — contact via GitHub profile.
